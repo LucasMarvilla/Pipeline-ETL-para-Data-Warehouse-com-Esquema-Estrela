@@ -19,7 +19,7 @@ Os dados estavam originalmente **distribuídos em diversos arquivos CSV separado
 
 Abaixo está o diagrama do esquema original dos dados disponíveis nos arquivos CSV da Olist:
 
-![Data Esquema Original](Diagramas\Data_Schema.png)
+![Data Esquema Original](Diagramas/Data_Schema.png)
 
 ## 🌟 Modelagem Estrela
 
@@ -45,7 +45,7 @@ Contém informações transacionais sobre cada item vendido:
 
 O diagrama abaixo foi gerado a partir das tabelas criadas no **pgAdmin** com o modelo estrela:
 
-![ERD - Modelo Estrela](Diagramas\diagrama_ERD.png)
+![ERD - Modelo Estrela](Diagramas/diagrama_ERD.png)
 
 ## 🎯 Resultados
 
